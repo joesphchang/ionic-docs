@@ -65,7 +65,6 @@ Ionic apps are made of high-level building blocks called Components, which allow
   <p>Content is the quintessential way to interact with and navigate through an app.</p>
 </DocsCard>
 
-{' '}
 <DocsCard header="Date & Time Pickers" href="api/datetime" img="/icons/feature-component-datetime-icon.png">
   <p>An interface which makes it easy for users to select dates and time.</p>
 </DocsCard>
@@ -90,7 +89,6 @@ Ionic apps are made of high-level building blocks called Components, which allow
   <p>Inputs provides a way for users to enter data in your app.</p>
 </DocsCard>
 
-{' '}
 <DocsCard header="Item" href="api/item" img="/icons/feature-component-item-icon.png">
   <p>A common UI paradigm that serves as an entry point to more detailed information.</p>
 </DocsCard>
@@ -135,6 +133,7 @@ Ionic apps are made of high-level building blocks called Components, which allow
 </DocsCard>
 
 {' '}
+
 <DocsCard header="Refresher" href="api/refresher" img="/icons/feature-component-refresher-icon.png">
   <p>A floating action button (FAB) is a circular button that offers an action on a screen.</p>
 </DocsCard>
@@ -171,7 +170,6 @@ Ionic apps are made of high-level building blocks called Components, which allow
   <p>Toggles are an input for binary options, often used for options and switches.</p>
 </DocsCard>
 
-{' '}
 <DocsCard header="Toolbar" href="api/toolbar" icon="/icons/component-toolbar-icon.png">
   <p>Toolbars are used to house information and actions relating to your app.</p>
 </DocsCard>
