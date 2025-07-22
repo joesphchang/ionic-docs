@@ -24,9 +24,9 @@ Ionic apps are made of high-level building blocks called Components, which allow
 <intro-end />
 
 <DocsCards>
-<DocsCard header="Accordion" href="api/accordion" img="/icons/feature-component-accordion-icon.png">
-  <p>Accordions provide collapsible sections in your content to reduce vertical space while providing a way of organizing and grouping information.</p>
-</DocsCard>
+  <DocsCard header="Accordion" href="api/accordion" img="/icons/feature-component-accordion-icon.png">
+    <p>Accordions provide collapsible sections in your content.</p>
+  </DocsCard>
 
 <DocsCard header="Action Sheet" href="api/action-sheet" icon="/icons/component-action-sheet-icon.png">
   <p>Action Sheets display a set of options with the ability to confirm or cancel an action.</p>
@@ -67,7 +67,7 @@ Ionic apps are made of high-level building blocks called Components, which allow
 </DocsCard>
 
 <DocsCard header="Date & Time Pickers" href="api/datetime" img="/icons/feature-component-datetime-icon.png">
-  <p>Date & time pickers are used to present an interface that makes it easy for users to select dates and times.</p>
+  <p>An interface which makes it easy for users to select dates and time.</p>
 </DocsCard>
 
 <DocsCard header="Floating Action Button" href="api/fab" icon="/icons/component-fab-icon.png">
@@ -78,8 +78,8 @@ Ionic apps are made of high-level building blocks called Components, which allow
   <p>The grid is a powerful mobile-first system for building custom layouts.</p>
 </DocsCard>
 
-<DocsCard header="Icons" href="api/icon" icon="/icons/component-icons-icon.png">
-  <p>Beautifully designed icons for use in web, iOS, and Android apps.</p>
+<DocsCard header="Icon" href="api/icon" icon="/icons/component-icons-icon.png">
+  <p>Ionicons is Ionic's Icon library for use in web, iOS, Android, and desktop apps.</p>
 </DocsCard>
 
 <DocsCard header="Infinite Scroll" href="api/infinite-scroll" icon="/icons/component-infinitescroll-icon.png">
@@ -91,10 +91,7 @@ Ionic apps are made of high-level building blocks called Components, which allow
 </DocsCard>
 
 <DocsCard header="Item" href="api/item" img="/icons/feature-component-item-icon.png">
-  <p>
-    Items are elements that can contain text, icons, avatars, images, inputs, and any other native or custom elements.
-    Items can be swiped, deleted, reordered, edited, and more.
-  </p>
+  <p>A common UI paradigm that serves as an entry point to more detailed information.</p>
 </DocsCard>
 
 <DocsCard header="List" href="api/list" icon="/icons/component-lists-icon.png">
@@ -103,8 +100,8 @@ Ionic apps are made of high-level building blocks called Components, which allow
 
 <DocsCard header="Media" href="api/avatar" icon="/icons/component-media-icon.png">
   <p>
-    A collection of media components, including avatars, icons, images, and thumbnails, designed to enhance visual
-    content.
+    Media refers to a collection of Ionic's media-related components like ion-avatar, ion-img, ion-icon, and
+    ion-thumbnail.
   </p>
 </DocsCard>
 
@@ -116,8 +113,12 @@ Ionic apps are made of high-level building blocks called Components, which allow
   <p>Modals slide in and off screen to display a temporary UI and are often used for login or sign-up pages.</p>
 </DocsCard>
 
-<DocsCard header="Navigation" href="api/nav" icon="/icons/component-navigation-icon.png">
+<DocsCard header="Navigation" href="api/menu" icon="/icons/component-navigation-icon.png">
   <p>Navigation is how users move between different pages in your app.</p>
+</DocsCard>
+
+<DocsCard header="OTP Input" href="api/input-otp" icon="/icons/component-input-otp-icon.png">
+  <p>Input OTP component simplifies entering one-time passwords with a customizable, multi-box interface.</p>
 </DocsCard>
 
 <DocsCard header="Popover" href="api/popover" icon="/icons/component-popover-icon.png">
@@ -132,12 +133,8 @@ Ionic apps are made of high-level building blocks called Components, which allow
   <p>Radio inputs allow you to present a set of exclusive options.</p>
 </DocsCard>
 
-<DocsCard header="Range" href="api/range" icon="/icons/component-range-icon.png">
-  <p>Range sliders let users select a value by dragging a knob along a track.</p>
-</DocsCard>
-
 <DocsCard header="Refresher" href="api/refresher" img="/icons/feature-component-refresher-icon.png">
-  <p>Refresher provides pull-to-refresh functionality on a content component.</p>
+  <p>A floating action button (FAB) is a circular button that offers an action on a screen.</p>
 </DocsCard>
 
 <DocsCard header="Reorder" href="api/reorder" icon="/icons/component-reorder-icon.png">
@@ -176,7 +173,7 @@ Ionic apps are made of high-level building blocks called Components, which allow
   <p>Toolbars are used to house information and actions relating to your app.</p>
 </DocsCard>
 
-<DocsCard header="Typography" href="api/text" icon="/icons/component-typography-icon.png">
-  <p>Text is used to style or change the color of text within an application.</p>
-</DocsCard>
+  <DocsCard header="Typography" href="api/text" icon="/icons/component-typography-icon.png">
+    <p>Text is used to style or change the color of text within an application.</p>
+  </DocsCard>
 </DocsCards>
